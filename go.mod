@@ -6,7 +6,6 @@ require (
 	github.com/Shopify/sarama v1.27.0
 	github.com/apache/rocketmq-client-go/v2 v2.0.0
 	github.com/go-redis/redis v6.15.8+incompatible
-	github.com/go-sql-driver/mysql v1.5.0
 	github.com/jmoiron/sqlx v1.2.0 // indirect
 	github.com/juju/errors v0.0.0-20200330140219-3fe23663418f
 	github.com/juju/testing v0.0.0-20200706033705-4c23f9c453cd // indirect
@@ -20,7 +19,6 @@ require (
 	github.com/prometheus/client_golang v1.0.0
 	github.com/samuel/go-zookeeper v0.0.0-20200724154423-2164a8ac840e
 	github.com/satori/go.uuid v1.2.0
-	github.com/shopspring/decimal v0.0.0-20180709203117-cd690d0c9e24
 	github.com/siddontang/go-log v0.0.0-20180807004314-8d05993dda07
 	github.com/siddontang/go-mysql v1.1.0
 	github.com/streadway/amqp v1.0.0
@@ -31,7 +29,6 @@ require (
 	go.mongodb.org/mongo-driver v1.4.0
 	go.uber.org/atomic v1.6.0
 	go.uber.org/zap v1.15.0
-	golang.org/x/tools v0.0.0-20191107010934-f79515f33823
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/yaml.v2 v2.3.0
 )
